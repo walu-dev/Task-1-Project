@@ -12,5 +12,8 @@ int main()
     double distance = 12345.6789;
     printf("The distance is: %lf\n",distance);
 
+    char initial = 'A';
+    printf("The initial is: %c\n",initial);
+
     return 0;
 }
